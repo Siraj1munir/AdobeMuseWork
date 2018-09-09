@@ -1,0 +1,82 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="college_app.com" resolutions="1x" timestamp="1483522017208">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="narrative.css" crc="4244531503" ref="narrative"/>
+    <file name="index.css" crc="4045567213" ref="index"/>
+    <file name="remdiation.css" crc="3796836252" ref="remdiation"/>
+    <file name="history.css" crc="230736285" ref="history"/>
+    <file name="play_app.css" crc="3987980435" ref="play_app"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:narrative:remdiation:history:play_app"/>
+    <file name="museutils.js" crc="3790713428" ref="index:narrative:remdiation:history:play_app"/>
+    <file name="whatinput.js" crc="84559013" ref="index:narrative:remdiation:history:play_app"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:narrative:remdiation:history:play_app"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:narrative:remdiation:history"/>
+    <file name="pie.js" crc="3827607177" ref="index:narrative:remdiation:history"/>
+    <file name="webpro.js" crc="329496574" ref="index:remdiation:history:narrative"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:remdiation:history:narrative"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:remdiation:history:narrative"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:remdiation:history:narrative"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:history:narrative:play_app:remdiation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:history:narrative:remdiation"/>
+    <file name="form_check.php" crc="3805695515" ref="index:history"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index:history"/>
+    <file name="form_process.php" crc="54267062" ref="index:history"/>
+    <file name="form-u521.php" crc="443865949" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:history:narrative:play_app:remdiation"/>
+    <file name="form-u2223.php" crc="443865949" ref="history"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:history:narrative:remdiation"/>
+    <file name="loading.gif" crc="3815509949" ref="index:history:narrative:remdiation"/>
+    <file name="figure collage 1.jpg" crc="3818939584" seo="true" ref="index"/>
+    <file name="marylin-collage-canvas.jpg" crc="197794193" seo="true" ref="index"/>
+    <file name="ar2.png" crc="54280652" ref="index:history:narrative:remdiation"/>
+    <file name="ar.png" crc="396165195" ref="index:history:narrative:remdiation"/>
+    <file name="collage 3.jpg" crc="521456034" seo="true" ref="index"/>
+    <file name="collage.jpg" crc="30010939" seo="true" ref="index"/>
+    <file name="collage1.jpg" crc="215681737" seo="true" ref="index"/>
+    <file name="collage 3-crop-u1604.jpg" crc="66233626" ref="index"/>
+    <file name="amazing-701679_1280.jpg" crc="99989210" ref="index:history:narrative:remdiation"/>
+    <file name="collage 3230x175.jpg" crc="113775848" seo="true" ref="index"/>
+    <file name="collage-crop-u1875.jpg" crc="244490152" ref="index"/>
+    <file name="collage1-crop-u1895.jpg" crc="20396027" ref="index"/>
+    <file name="beautiful-surreal-collage-art-crop-u2009.jpg" crc="424827324" ref="index"/>
+    <file name="ceb9a7a4802cf50b0a6487cc4084cbbf-crop-u2029.jpg" crc="4171623452" ref="index"/>
+    <file name="photo-crop-u1955.jpg" crc="3942857649" ref="index"/>
+    <file name="figure collage 1-crop-u1915.jpg" crc="252531734" ref="index"/>
+    <file name="marylin-collage-canvas-crop-u1935.jpg" crc="3863638436" ref="index"/>
+    <file name="beautiful-surreal-collage-art.jpg" crc="4282031683" seo="true" ref="index"/>
+    <file name="ceb9a7a4802cf50b0a6487cc4084cbbf.jpg" crc="4099982224" seo="true" ref="index"/>
+    <file name="photo.jpg" crc="4030203535" seo="true" ref="index"/>
+    <file name="marylin-collage-canvas394x360.jpg" crc="471314352" seo="true" ref="index"/>
+    <file name="u527-17.png" crc="353459160" ref="index"/>
+    <file name="u527-17-r.png" crc="3810886880" ref="index"/>
+    <file name="u527-17-m.png" crc="3810886880" ref="index"/>
+    <file name="u527-17-fs.png" crc="332647214" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index:history:narrative:remdiation"/>
+    <file name="pinterest.png" crc="4214682508" ref="index:history:narrative:remdiation"/>
+    <file name="facebook.png" crc="317936629" ref="index:history:narrative:remdiation"/>
+    <file name="youtube.png" crc="442611654" ref="index:history:narrative:remdiation"/>
+    <file name="instagram.png" crc="260457741" ref="index:history:narrative:remdiation"/>
+    <file name="dixon_diamondsrough.jpg" crc="485631052" seo="true" ref="history"/>
+    <file name="efc55d48445a694d15bb350237cb5de7.jpg" crc="3939910332" seo="true" ref="history"/>
+    <file name="u2579-14.png" crc="59953935" ref="history"/>
+    <file name="u2231-17.png" crc="353459160" ref="history"/>
+    <file name="u2231-17-r.png" crc="3810886880" ref="history"/>
+    <file name="u2231-17-m.png" crc="3810886880" ref="history"/>
+    <file name="u2231-17-fs.png" crc="332647214" ref="history"/>
+    <file name="derekgores_echoliberation.jpg" crc="437610314" seo="true" ref="narrative"/>
+    <file name="w30th-124-chamblissgiobbi-10-ep-.jpg" crc="294925658" seo="true" ref="narrative:remdiation"/>
+    <file name="u2974-5.png" crc="132498831" ref="narrative"/>
+    <file name="collegea.jpg" crc="291668629" seo="true" ref="narrative:remdiation"/>
+    <file name="vintage-revista.jpg" crc="3937162920" seo="true" ref="remdiation"/>
+    <file name="u4546-4.png" crc="4217706375" ref="remdiation"/>
+  </folder>
+  <file name="index.html" crc="4259603256" seo="true" mt="1483358693706" redirect="true"/>
+  <file name="narrative.html" crc="4289866412" seo="true" mt="1483185355872" redirect="true"/>
+  <file name="remdiation.html" crc="3830582533" seo="true" mt="1483186247652" redirect="true"/>
+  <file name="history.html" crc="4183955915" seo="true" mt="1483359562661" redirect="true"/>
+  <file name="play_app.html" crc="3868527923" seo="true" mt="1483521960107" redirect="true"/>
+</manifest>
